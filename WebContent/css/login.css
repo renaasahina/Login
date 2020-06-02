@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+
+/*ボタン設定*/
+.button{
+	/*大きさ設定*/
+	width:300px;height:50px;
+	/*ボタンの角を丸くする設定*/
+	border-radius:30px;
+	/*ボタンの色を変える設定*/
+	background-color:#98fb98;
+	/*ボタン内の文字の色設定*/
+	color:#ffffff;
+	/*ボタン内のフォントサイズの設定*/
+	font-size:20px;
+	/*ボタン内の文字の太さをboldに変更*/
+	font-weight:bold;
+	}
